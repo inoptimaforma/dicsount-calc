@@ -16,3 +16,14 @@ if (isNaN(a)) {
     alert("No discout")
 }
 
+// первое д/з
+var a = 222
+var b = "222"
+var c
+
+console.log(typeof a);
+console.log(typeof b);
+console.log(typeof c);
+console.log(a === b);
+console.log(a == b);
+console.log(a * c);
